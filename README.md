@@ -72,4 +72,5 @@ Reach me at: [feuermelda5733@gmail.com](mailto:feuermelda5733@gmail.com)
 
 I bring precision, narrative flair, and a deep appreciation for elegantly chaotic hardware.
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Feuermelda&layout=compact)
 
